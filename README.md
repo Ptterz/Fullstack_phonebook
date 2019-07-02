@@ -1,5 +1,10 @@
-# Puhelinluettelo
+# Full Stack web development (AYTKT21009)
 
-Repositoriossa on sekä tuotantoversio sovelluksen frontendista että backendin tiedostot. 
+This repository is part of a course in Computer Science. 
 
-[Linkki](https://murmuring-escarpment-81876.herokuapp.com/) sovellukseen.
+## Backend for Phonebook application
+
+There is both the production version of the frontend and the backend in this repository.  
+
+[Link](https://murmuring-escarpment-81876.herokuapp.com/) to the application.
+
